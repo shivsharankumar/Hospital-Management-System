@@ -4,9 +4,9 @@
 ---
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/shivsharankumar/Hospital-Management-System/static/screenshots/homepage.png?raw=true)
+![homepage snap](https://github.com/shivsharankumar/Hospital-Management-System/blob/main/static/screenshots/homepage.png?raw=true)
 ### Admin Dashboard
-![dashboard snap](https://github.com/shivsharankumar/Hospital-Management-System/static/screenshots/admin_dashboard.png?raw=true)
+![dashboard snap](https://github.com/shivsharankumar/Hospital-Management-System/blob/main/static/screenshots/admin_dashboard.png?raw=true)
 
 ---
 ## Functions
